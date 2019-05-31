@@ -2,9 +2,9 @@
 class Sshh < Formula
   desc "ssh hosts manager"
   homepage "https://github.com/sakoken/sshh"
-  url "https://github.com/sakoken/sshh/releases/download/v0.0.10/sshh_0.0.10_macOS_64-bit.zip"
-  version "0.0.10"
-  sha256 "5471392e3bdcd964d05c5a232a9633861ca0a2ec87f20a9035c56d7c4d3fae90"
+  url "https://github.com/sakoken/sshh/releases/download/v0.0.11/sshh_0.0.11_macOS_64-bit.zip"
+  version "0.0.11"
+  sha256 "461aefa67c81e4769e39d72110b8e25cded4125a1872877b505ec32d99256956"
 
   def install
     bin.install "sshh"
